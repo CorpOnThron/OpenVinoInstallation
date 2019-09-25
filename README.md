@@ -10,7 +10,7 @@ good output:
 
 l_openvino_toolkit_ie_p_2018.5.445.tgz: gzip compressed data, was "l_openvino_toolkit_ie_p_2018.5.445.tar", last modified: Wed Dec 19  12:49:53 2018, max compression, from FAT filesystem (MS-DOS, OS/2, NT)
 
-Repeat script again in case of bad output and then prceed.
+Repeat script again in case of bad output and then proceed.
 
 2. Run second script. It will open nano terminal where you should replace <INSTALLDIR> with:
 
