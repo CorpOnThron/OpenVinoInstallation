@@ -21,7 +21,7 @@ l_openvino_toolkit_ie_p_2018.5.445.tgz: gzip compressed data, was "l_openvino_to
 Repeat script again in case of bad output and then proceed.
   
 ```bash
-sudo sh OpenVinoInstallation/openvino_install_script_2
+sudo sh ../OpenVinoInstallation/openvino_install_script_2
 ```
 It will open nano terminal where you should replace <INSTALLDIR> with:
 
@@ -31,7 +31,7 @@ It will open nano terminal where you should replace <INSTALLDIR> with:
 Then press ctrl+o, enter, ctrl+x, enter
  
 ```bash
-sudo sh OpenVinoInstallation/openvino_install_script_3
+sudo sh ../OpenVinoInstallation/openvino_install_script_3
 ```
 
 Rasberry Pi should reboot now.
