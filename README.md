@@ -39,6 +39,7 @@ Then press ctrl+o, enter, ctrl+x, enter
 sudo sh OpenVinoInstallation/openvino_install_script_3
 ```
 Rasberry Pi should reboot now.
+
 4.
 ```bash
 sudo sh OpenVinoInstallation/openvino_install_script_4
