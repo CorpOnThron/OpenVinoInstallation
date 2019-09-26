@@ -39,3 +39,11 @@ Rasberry Pi should reboot now.
 ```bash
 sudo sh OpenVinoInstallation/openvino_install_script_4
 ```
+
+Then type those commands (openvino == any name for virtualenv)
+
+```bash
+mkvirtualenv openvino -p python3
+workon openvino
+sudo sh OpenVinoInstallation/openvino_install_script_5
+```
