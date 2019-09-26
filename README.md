@@ -1,5 +1,6 @@
 # OpenVinoInstallation
 How to run:
+
 1. git clone https://github.com/CorpOnThron/OpenVinoInstallation
 cd ~
 
