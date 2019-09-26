@@ -1,6 +1,11 @@
 # OpenVinoInstallation
 How to run:
-1. Run first script. After first script runs us "file" command to verify input
+1. git clone https://github.com/CorpOnThron/OpenVinoInstallation
+cd ~
+
+2.Run:
+sudo sh OpenVinoInstallation/openvino_install_script_1
+After first script runs us "file" command to verify input
 
 bad output:
 
