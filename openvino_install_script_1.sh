@@ -7,6 +7,7 @@ sudo apt-get install libgtk-3-dev
 sudo apt-get install libcanberra-gtk*
 sudo apt-get install libatlas-base-dev gfortran
 sudo apt-get install python3-dev
-
+sudo mkdir openvino && cd openvino
 # verify installation after the download with "file" command
 wget http://download.01.org/openvinotoolkit/2018_R5/packages/l_openvino_toolkit_ie_p_2018.5.445.tgz
+
